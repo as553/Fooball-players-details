@@ -1,0 +1,142 @@
+[
+    {
+        "identifier": 1003,
+        "first_name": "Hector",
+        "last_name": "Bellerin",
+        "team": "Arsenal",
+        "position": "Defender",
+        "image": "hectorbellerin.jpg"
+    },
+    {
+        "identifier": 1101,
+        "first_name": "Petr",
+        "last_name": "Cech",
+        "team": "Arsenal",
+        "position": "Goalkeeper",
+        "image": "petrcech.jpg"
+    },
+    {
+        "identifier": 1402,
+        "first_name": "Olivier",
+        "last_name": "Giroud",
+        "team": "Arsenal",
+        "position": "Striker",
+        "image": "oliviergiroud.jpg"
+    },
+    {
+        "identifier": 1027,
+        "first_name": "Alex",
+        "last_name": "Iwobi",
+        "team": "Arsenal",
+        "position": "Midfielder 2",
+        "image": "alexiwobi.jpg"
+    },
+    {
+        "identifier": 1009,
+        "first_name": "Laurent",
+        "last_name": "Koscielny",
+        "team": "Arsenal",
+        "position": "Defender",
+        "image": "laurentkoscielny.jpg"
+    },
+    {
+        "identifier": 1033,
+        "first_name": "Mesut",
+        "last_name": "Ozil",
+        "team": "Arsenal",
+        "position": "Midfielder 1",
+        "image": "mesutozil.jpg"
+    },
+    {
+        "identifier": 1048,
+        "first_name": "Alexis",
+        "last_name": "Sanchez",
+        "team": "Arsenal",
+        "position": "Striker",
+        "image": "alexissanchez.jpg"
+    },
+    {
+        "identifier": 1041,
+        "first_name": "Theo",
+        "last_name": "Walcott",
+        "team": "Arsenal",
+        "position": "Midfielder 2",
+        "image": "theowalcott.jpg"
+    },
+    {
+        "identifier": 1404,
+        "first_name": "Marcos",
+        "last_name": "Alonso",
+        "team": "Chelsea",
+        "position": "Defender",
+        "image": "marcosalonso.jpg"
+    },
+    {
+        "identifier": 1201,
+        "first_name": "Cesar",
+        "last_name": "Azpilicueta",
+        "team": "Chelsea",
+        "position": "Defender",
+        "image": "cesarazpilicueta.jpg"
+    },
+    {
+        "identifier": 1304,
+        "first_name": "Gary",
+        "last_name": "Cahill",
+        "team": "Chelsea",
+        "position": "Defender",
+        "image": "garycahill.jpg"
+    },
+    {
+        "identifier": 1043,
+        "first_name": "Diego",
+        "last_name": "Costa",
+        "team": "Chelsea",
+        "position": "Striker",
+        "image": "diegocosta.jpg"
+    },
+    {
+        "identifier": 1016,
+        "first_name": "Thibaut",
+        "last_name": "Courtois",
+        "team": "Chelsea",
+        "position": "Goalkeeper",
+        "image": "thibautcourtois.jpg"
+    },
+    {
+        "identifier": 1026,
+        "first_name": "Eden",
+        "last_name": "Hazard",
+        "team": "Chelsea",
+        "position": "Midfielder 1",
+        "image": "edenhazard.jpg"
+    },
+    
+
+    {
+    
+        "identifier": 1047,
+        "first_name": "Salomon",
+        "last_name": "Rondon",
+        "team": "West Brom",
+        "position": "Striker",
+        "image": "salomonrondon.jpg"
+    },
+    {
+        "identifier": 1708,
+        "first_name": "Cristiano",
+        "last_name": "Ronaldo",
+        "team": "Manchester United",
+        "position": "Forwad",
+        "image": ""
+    },
+    {
+        "identifier": 1709,
+        "first_name": "Lio",
+        "last_name": "Messi",
+        "team": "PSG",
+        "position": "Forward",
+        "image": ""
+    }
+
+]
